@@ -4,11 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba408917-60ac-4c3f-a547-214370edb36d" name="Changes" comment="" />
+    <list default="true" id="ba408917-60ac-4c3f-a547-214370edb36d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yass/ARisque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yass/Personnel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yass/models/Commercial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yass/models/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yass/models/ManutARisque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yass/models/Manutentionnaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yass/models/Representant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yass/models/TechnARisque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yass/models/Technicien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yass/models/Vendeur.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -18,7 +48,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2UwWRXAyma3RHsxqXsOPXTvJUHb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,7 +59,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -39,7 +76,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693851118367</updated>
+      <workItem from="1693851119425" duration="9450000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

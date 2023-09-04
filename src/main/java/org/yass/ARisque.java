@@ -1,2 +1,6 @@
-package org.yass;public interface ARisque {
+package org.yass;
+
+public interface ARisque {
+
+    int prime = 200;
 }
